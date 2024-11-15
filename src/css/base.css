@@ -135,7 +135,12 @@ a:focus-visible {
 	display: flex;
 	margin-bottom: 0.5rem;
 	flex-wrap: wrap;
-	width: 14rem;
+	width: 29rem;
+	gap: 0.7rem;
+}
+
+.frame__logo {
+	scale: 1;
 }
 
 .frame__title-main {
