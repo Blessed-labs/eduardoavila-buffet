@@ -165,12 +165,12 @@ Execute o projeto eduardoavila-buffet utilizando o seguinte comando:
 ## 📌 Roadmap
 
 - [X] **`Levantamento de requisitos`**
-- [ ] **`Coleta de assets visuais (mídias da empresa)`**
-- [ ] **`Estruturação da stack inicial do projeto`**
-- [ ] **`Organização do código fonte`**
-- [ ] **`Validação do material textual do projeto`**
-- [ ] **`Codificação do projeto`**
-- [ ] **`Obtenção do domínio da aplicação`**
+- [X] **`Coleta de assets visuais (mídias da empresa)`**
+- [X] **`Estruturação da stack inicial do projeto`**
+- [X] **`Organização do código fonte`**
+- [X] **`Validação do material textual do projeto`**
+- [X] **`Codificação do projeto`**
+- [X] **`Obtenção do domínio da aplicação`**
 - [ ] **`Deploy da aplicação`**
 - [ ] **`Apontamento do domínio do projeto`**
 ---
