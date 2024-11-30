@@ -1,5 +1,5 @@
 {
-  "name": "onscrollpathanimations",
+  "name": "Eduardo Ávila Buffet",
   "version": "1.0.0",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "description": "",
@@ -11,15 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/OnScrollPathAnimations.git"
+    "url": "https://github.com/JonatasT/eduardoavila-buffet"
   },
   "keywords": [],
-  "author": "Codrops",
+  "author": "Jonatas Teixeira",
   "license": "MIT",
-  "homepage": "https://tympanus.net/codrops",
-  "bugs": {
-    "url": "https://github.com/codrops/OnScrollPathAnimations/issues"
-  },
   "devDependencies": {
     "parcel": "^2.6.0"
   },
